@@ -3,6 +3,16 @@
     width: 100%;
     background-color: whitesmoke;
     text-align: center;
+    font-family: "LatoWeb", "Helvetica Neue", Helvetica, Arial, serif;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+a:hover{
+    color:rgb(255, 200, 0);
 }
 
 main{
@@ -48,9 +58,7 @@ main{
     font-style: normal;
   }
   
-.type{
-    color: red;
-}
+
 
 footer{
     position: fixed;

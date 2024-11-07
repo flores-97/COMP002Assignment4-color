@@ -5,10 +5,48 @@
     text-align: center;
 }
 
+main{
+    float: left;
+    width: 100%;
+    background-color: black;
+    height: 500px;
+}
 
+.banner{
+    width: 100%;
+}
 
+.ISD{
+    position: relative;
+    top: 40px;
+    left: 20px;
+}
 
+.lsw{
+    color: aliceblue;
+    float: right;
+    text-align: left;
+    padding-right: 15em;
+}
 
+.description{
+    color: aliceblue;
+    clear: both;
+    position: relative;
+    left: 15em;
+    bottom: 23em;
+    text-align: left;
+    padding-right: 15em;
+    line-height: 135%;
+    padding-left: 23em;
+}
+
+.pl{
+    width: 450px;
+    position: relative;
+    left: 700px;
+    bottom: 400px;
+}
 footer{
     position: fixed;
     bottom: 15px;

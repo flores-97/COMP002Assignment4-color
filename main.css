@@ -10,6 +10,7 @@ main{
     width: 100%;
     background-color: black;
     height: 500px;
+
 }
 
 .banner{
@@ -41,12 +42,16 @@ main{
     padding-left: 23em;
 }
 
-.pl{
-    width: 450px;
-    position: relative;
-    left: 700px;
-    bottom: 400px;
+.roboto-regular {
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.type{
+    color: red;
 }
+
 footer{
     position: fixed;
     bottom: 15px;
